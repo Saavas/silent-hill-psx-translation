@@ -4,8 +4,8 @@
     "txt-size": "0x623",
     "ptr-size": "0x27",
     "messages": [
-        "Yes",
-        "No",
+        "Tak",
+        "Nie",
         "Someday, someone may experience{~N}these bizarre events. Hopefully,{~N}they will find my notes useful.{~E}",
         "{~D}I don't have the map{~N}for this place.{~E}",
         "{~D}Too dark to look{~N}at the map here.{~E}",
