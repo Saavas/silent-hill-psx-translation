@@ -51,7 +51,7 @@
         "{~J0(2.5)}What's wrong?{~N}Harry...?{~E}",
         "{~J0(2.6)}Harry,{~N}let me help you.{~E}",
         "{~J0(1.0)}{~E}",
-        "There is a {~C2}Plate of ]Queen]{~C7}.{~N}Take it?{~S4}",
+        "There is a {~C2}Plate of [Queen]{~C7}.{~N}Take it?{~S4}",
         "Used the {~C2}Examination room key{~C7}.{~E}",
         "There is a broken{~N}vending machine.{~E}",
         "Nothing unusual.{~E}",

@@ -39,7 +39,7 @@
         "{~J0(3.0)}These will help you.{~E}",
         "{~J0(4.2)}Make haste to the hospital{~N}before it's too late.{~E}",
         "{~J0(2.4)}Wait!{~N}Don't go yet!{~E}",
-        "There is a {~C2}]Flauros]{~C7}.{~N}Take it?{~S4}",
+        "There is a {~C2}[Flauros]{~C7}.{~N}Take it?{~S4}",
         "There is a {~C2}Drawbridge key{~C7}.{~N}Take it?{~S4}",
         "Bible.{~E}",
         "It won't open.",
