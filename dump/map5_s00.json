@@ -19,10 +19,10 @@
         "Zamknięte.{~E}",
         "Otworzyłem drzwi.{~E}",
         "{~E}",
-        "Użyłem{~C2}Klucza do Kanalizacji{~C7}.{~E}",
-        "Użyłem{~C2}Klucza do wyjścia{~N}z Kanalizacji{~C7}.{~E}",
+        "Użyłem {~C2}Klucza do Kanalizacji{~C7}.{~E}",
+        "Użyłem {~C2}Klucza do wyjścia{~N} z Kanalizacji{~C7}.{~E}",
         "Znalazłem {~C2}Klucz do Kanalizacji{~C7}.{~N}Zabrać?{~S4}",
-        "Znalazłem {~C2}Klucz do wyjścia{~N}z Kanalizacji{~C7}w wodzie. Zabrać?{~S4}",
+        "Znalazłem {~C2}Klucz do wyjścia z{~N}Kanalizacji{~C7} w wodzie. Zabrać?{~S4}",
         "Muszę znaleźć Cheryl.{~N}Nie ma czasu, żeby wracać.{~E}",
         "{~H}Znalazłem {~C5}Mapę Kanalizacji{~N}(połączenie z Strefą Resortową){~C7}.{~N}Zabrać?{~S4}"
     ]

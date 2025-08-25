@@ -23,13 +23,13 @@
         "{~J0(0.1)}{~E}",
         "{~J0(0.1)}{~E}",
         "{~J0(0.1)}{~E}",
-        "{~J1(4.0)}Znowu...!?{~N}Nie, tym razem wydaje się być inaczej.",
+        "{~J1(4.0)}Znowu...!?Nie, tym razem{~N}wydaje się być inaczej.",
         "{~J1(4.5)}Zamiast przechodzić{~N}z rzeczywistośći w koszmar,",
         "{~J1(4.5)}tym razem to rzeczywistość{~N}staje się koszmarem.",
-        "{~J1(6.0)}Nie podoba mi się to uczucie.{~N}Jakby miało stać się{~N}coś złego...",
+        "{~J1(6.0)}Nie podoba mi się to{~N}uczucie. Jakby miało{~N}stać się coś złego...",
         "{~J1(4.0)}Bez wątpienia, dzieje się{~N}coś okropnego...{~E}",
-        "Pokrywa została usunięta...",
-        "Czy Cybil mogła się dostaćdo{~N}Parku Rozrywki właśnie tędy?{~E}",
+        "Pokrywa została zdjęta...",
+        "Czy Cybil mogła się dostać do{~N}Parku Rozrywki właśnie tędy?{~E}",
         "{~C3}PARK ROZRYWKI LAKE SIDE{~E}"
     ]
 }
