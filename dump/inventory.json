@@ -1,314 +1,314 @@
 {
     "0": {
-        "name": "Health drink(s)",
-        "desc": "Supplies nutrition to{~N}recover a small amount of{~N}stamina."
+        "name": "Napój leczniczy",
+        "desc": "Dostarcza odżywienia, aby{~N}odzyskać niewielką ilość{~N}wytrzymałości."
     },
     "1": {
-        "name": "First aid kit(s)",
-        "desc": "Heals injury to provide{~N}moderate stamina recovery."
+        "name": "Apteczka",
+        "desc": "Leczy rany, aby dać{~N}umiarkowaną regenerację wytrzymałości."
     },
     "2": {
-        "name": "Ampoule(s)",
-        "desc": "Relieve pain to recover{~N}stamina to high.{~N}Effect lasts for a while."
+        "name": "AMpułka",
+        "desc": "Uśmierza ból, aby dać{~N}wysoką wytrzymałość.{~N}Efekty utrzymują się jakiś czas."
     },
     "32": {
-        "name": "Lobby key",
-        "desc": "The key to open{~N}the door to the lobby.{~N}I found it in the locker room."
+        "name": "unused",
+        "desc": "unused"
     },
     "33": {
-        "name": "House key",
-        "desc": "The house key{~N}hidden in the dog house."
+        "name": "Klucz do domu",
+        "desc": "Klucz do domu, który{~N}był schowany w budzie dla psa."
     },
     "34": {
-        "name": "Key of [Lion]",
-        "desc": "The key to the garden of{~N}the house. Found in patrol{~N}car's trunk."
+        "name": "Klucz ]Lwa]",
+        "desc": "Klucz do ogródka{~N}domowego. Znaleziony w bagażniku{~N}radiowozu."
     },
     "35": {
-        "name": "Key of [Woodman]",
-        "desc": "The key to the garden of{~N}the house. Found in the{~N}basketball court."
+        "name": "Klucz ]Drwala]",
+        "desc": "Klucz do ogródka{~N}domowego. Znaleziony na{~N}boisku do koszykówki."
     },
     "36": {
-        "name": "Key of [Scarecrow]",
-        "desc": "The key to the garden of{~N}the house. Found in mailbox{~N}blocked by a fallen tree."
+        "name": "Klucz ]Stracha na wróble]",
+        "desc": "Klucz do ogródka{~N}domowego. Znaleziony w skrzynce{~N}pocztowej obok zwalonego drzewa."
     },
     "37": {
-        "name": "Library reserve key",
-        "desc": "The key to the school's 2nd{~N}floor library reserves.{~N}Picked up in the locker room."
+        "name": "Klucz do magazynu biblioteki",
+        "desc": "Klucz do magazynu szkolnej{~N}biblioteki na drugim piętrze.{~N}Znaleziony w szatni."
     },
     "38": {
-        "name": "Classroom key",
-        "desc": "The tagged classroom key{~N}found hanging in the drainpipe{~N}on the roof."
+        "name": "Klucz do klasy",
+        "desc": "Oznaczony klucz do klasy{~N}znaleziony wiszący w odpływie{~N}na dachu."
     },
     "39": {
-        "name": "K. Gordon key",
-        "desc": "The tag says, [K. Gordon;]{~N}found in the school's{~N}boiler room."
+        "name": "Klucz K. Gordon",
+        "desc": "Na breloczku widnieje ]K. Gordon],{~N}znaleziony w szkolnej{~N}kotłowni."
     },
     "40": {
-        "name": "Drawbridge key",
-        "desc": "Key to operate the drawbridge.{~N}Found in the church."
+        "name": "Klucz do mostu zwodzonego",
+        "desc": "Klucz do obsługi mostu.{~N}Znaleziony w kościele."
     },
     "41": {
-        "name": "Basement key",
-        "desc": "The hospital basement{~N}door key, found on the table{~N}in 1st floor conference room."
+        "name": "Klucz do piwnicy",
+        "desc": "Klucz do piwnicy szpitala,{~N}znaleziony na stole w{~N}pokoju konferencyjnym na 1 piętrze."
     },
     "42": {
-        "name": "Basement storeroom key",
-        "desc": "The hospital basement{~N}storeroom key found{~N}in the operating room."
+        "name": "Klucz do magazynu w piwnicy",
+        "desc": "Klucz do magazyny w piwnicy{~N}szpitala znaleziony na{~N}sali operacyjnej."
     },
     "43": {
-        "name": "Examination room key",
-        "desc": "Found in patient room{~N}in the 2nd floor basement."
+        "name": "Klucz do pokoju badań",
+        "desc": "Znaleziony w pokoju pacjenta{~N}na drugim poziomie piwnicy."
     },
     "44": {
-        "name": "Antique shop key",
-        "desc": "The tagged key with a shop{~N}name on it that Dahlia left{~N}at the hospital."
+        "name": "Klucz do Antykwariatu",
+        "desc": "Oznakowany klucz z nazwą{~N}sklepu, który Dahlia zostawiła{~N}w szpitalu."
     },
     "45": {
-        "name": "Sewer key",
-        "desc": "Sewer passageway door key."
+        "name": "Klucz do kanalizacji",
+        "desc": "Klucz do drzwi wejśćiowych kanalizacji."
     },
     "46": {
-        "name": "Key of [Ophiel]",
-        "desc": "The word [Ophiel] is{~N}engraved on the key."
+        "name": "Klucz ]Ophiel]",
+        "desc": "Słowo ]Ophiel] jest{~N}wygrawerowane na kluczu."
     },
     "47": {
-        "name": "Key of [Hagith]",
-        "desc": "The word [Hagith] is{~N}engraved on the key."
+        "name": "Klucz ]Hagith]",
+        "desc": "Słowo ]Hagith] jest{~N}wygrawerowane na kluczu."
     },
     "48": {
-        "name": "Key of [Phaleg]",
-        "desc": "The word [Phaleg] is{~N}engraved on the key."
+        "name": "Klucz ]Phaleg]",
+        "desc": "Słowo ]Phaleg] jest{~N}wygrawerowane na kluczu."
     },
     "49": {
-        "name": "Key of [Bethor]",
-        "desc": "The word [Bethor] is{~N}engraved on the key."
+        "name": "Klucz ]Bethor]",
+        "desc": "Słowo ]Bethor] jest{~N}wygrawerowane na kluczu."
     },
     "50": {
-        "name": "Key of [Aratron]",
-        "desc": "The word [Aratron] is{~N}engraved on the key."
+        "name": "Klucz ]Aratron]",
+        "desc": "Słowo ]Aratron] jest{~N}wygrawerowane na kluczu."
     },
     "51": {
-        "name": "A note [To school]",
-        "desc": "[To school] is written{~N}in Cheryl's handwriting."
+        "name": "Notatka ]Do szkoły]",
+        "desc": "]Do szkoły] jest napisane{~N}odręcznym pismem Cheryl."
     },
     "52": {
-        "name": "A note [Doghouse]",
-        "desc": "[Doghouse] and [Levin st.]{~N}are written in{~N}Cheryl's handwriting."
+        "name": "Notatka ]Buda dla psa]",
+        "desc": "]Buda dla psa] i ]ul. Levina]{~N}jest napisane{~N}odręcznym pismem Cheryl."
     },
     "53": {
-        "name": "Picture card",
-        "desc": "A rectangular card with{~N}a picture of a key. Found on{~N}a desk in a classroom."
+        "name": "Karta z obrazkiem",
+        "desc": "Prostokątna karta z {~N}obrazkiem klucza. Znaleziona n{~N}biurku w klasie."
     },
     "54": {
         "name": " ",
         "desc": " "
     },
     "55": {
-        "name": "Sewer exit key",
-        "desc": "Key to exit from the sewer{~N}to the resort area, which was{~N}dropped in the water."
+        "name": "Klucz do wyjścia z kanalizacji",
+        "desc": "Klucz do wyjścia z kanalizacji{~N}do strefy resortowej, który był{~N}wrzucony do wody."
     },
     "56": {
-        "name": "Channeling stone",
-        "desc": "A mystical stone possessing{~N}power. If used somewhere,{~N}the result will be...?"
+        "name": "Kamień komunikacyjny",
+        "desc": "Mistyczny kamień posiadający{~N}moc. Gdy zostanie użyty,{~N}w rezultacie stanie się...?"
     },
     "64": {
-        "name": "Chemical",
-        "desc": "The label reads, [Concentrated{~N}hydrochloric acid.] Found in{~N}the lab equipment room."
+        "name": "Odczynnik",
+        "desc": "Na etykiecie widnieje ]Stężony{~N}kwas chlorowodorowy.]Znaleziony w{~N}magazynku laboratorium chemicznego."
     },
     "65": {
-        "name": "Gold medallion",
-        "desc": "A picture of a clock tower{~N}is engraved on the surface.{~N}Found in the chemistry lab."
+        "name": "Złoty medalion",
+        "desc": "Obrazek wieży zegarowej{~N}jest wygrawerowany na powierzchni.{~N}Znaleziony w laboratorium chemicznym."
     },
     "66": {
-        "name": "Silver medallion",
-        "desc": "A picture of a clock tower{~N}is engraved on the surface.{~N}Found in the music room."
+        "name": "Srebrny medalion",
+        "desc": "Obrazek wieży zegarowej{~N}jest wygrawerowany na powierzchni.{~N}Znaleziony w pokoju muzycznym."
     },
     "67": {
-        "name": "Rubber ball",
-        "desc": "Florescent pink rubber ball{~N}used by children."
+        "name": "Gumowa piłeczka",
+        "desc": "Jaskraworóżowa piłka gumowa{~N}używana przez dzieci."
     },
     "68": {
-        "name": "[Flauros]",
-        "desc": "Pyramid shaped object found{~N}in the church.{~N}Purpose and use unknown."
+        "name": "]Flauros]",
+        "desc": "Obiekt w kształcie piramidy{~N}znaleziony w kościele.{~N}Cel i zastosowanie nieznane."
     },
     "69": {
-        "name": "Plastic bottle",
-        "desc": "Empty bottle found{~N}in the kitchen{~N}of the hospital."
+        "name": "Plastikowa butelka",
+        "desc": "Pusta butelka znaleziona{~N}w kuchni szpitala."
     },
     "70": {
-        "name": "Unknown liquid",
-        "desc": "Red liquid found in{~N}a broken vial in the{~N}Hospital Director's room."
+        "name": "Nieznana ciecz",
+        "desc": "Czerwona ciecz znaleziona{~N}w rozbitej fiolce w{~N}gabinecie dyrektora szpitala."
     },
     "71": {
-        "name": "Plate of [Turtle]",
-        "desc": "Square, blue plate{~N}with a picture of{~N}a [Mock Turtle.]"
+        "name": "Tabliczka ]żółw]",
+        "desc": "Square, blue plate{~N}with a picture of{~N}a ]Mock Turtle.]"
     },
     "72": {
-        "name": "Plate of [Hatter]",
-        "desc": "Square, green plate{~N}with a picture of{~N}a [Mad Hatter.]"
+        "name": "Tabliczka ]Kapelusznik]",
+        "desc": "Kwadratowa, zielona tabliczna{~N}z ilustracją{~N} ]Szalonego Kapelusznika.]"
     },
     "73": {
-        "name": "Plate of [Cat]",
-        "desc": "Square, yellow plate{~N}with a picture of{~N}a [Cheshire Cat.]"
+        "name": "Tabliczka ]Kot]",
+        "desc": "Kwadratowa, żółta tablicznae{~N}z ilustracją {~N} ]Kota z Cheshire.]"
     },
     "74": {
-        "name": "Plate of [Queen]",
-        "desc": "Square, red plate{~N}with a picture of{~N}a [Queen of Hearts.]"
+        "name": "Tabliczka ]Królowa]",
+        "desc": "Kwadratowa, czerwona tabvliczna{~N}z ilustracją {~N}]Królowej Kier.]"
     },
     "75": {
-        "name": "Blood pack",
-        "desc": "200ml blood pack.{~N}Found in the hospital{~N}storage room."
+        "name": "Jednostka krwi",
+        "desc": "Jednostka krwi o objętości 200ml.{~N}Znaleziona w magazynie szpitala."
     },
     "76": {
-        "name": "Disinfecting alcohol",
-        "desc": "Isopropyl alcohol bottle,{~N}found in ICU at the hospital."
+        "name": "Alkohol do dezynfekcji",
+        "desc": "Butelka alkoholu izopropylowego,{~N}znaleziona w OIOM szpitala."
     },
     "77": {
-        "name": "Lighter",
-        "desc": "Oil lighter found in Room 201."
+        "name": "Zapalniczka",
+        "desc": "Zapalniczna benzynowa{~N}znaleziona w pokoju 201."
     },
     "78": {
-        "name": "Video tape",
-        "desc": "Nothing on the label.{~N}Found on 2nd floor{~N}hospital basement."
+        "name": "Kaseta wideo",
+        "desc": "Etykieta jest pusta.{~N}Znaleziona na drugim poziomie{~N}piwnicy szpitala."
     },
     "79": {
         "name": " ",
         "desc": " "
     },
     "80": {
-        "name": "Kaufmann key",
-        "desc": "A [3] is written on the tag.{~N}The key was thought to have{~N}been dropped by Kaufmann."
+        "name": "Klucz Kaufmanna",
+        "desc": "Na breloku widnieje ]3].{~N}Klucz prawdopodobnie{~N}upuścił Kaufmann."
     },
     "81": {
-        "name": "Receipt",
-        "desc": "Receipt from General Store,{~N}thought to have been dropped{~N}by Kaufmann."
+        "name": "Paragon",
+        "desc": "Paragon z sklepu wielobranżowego,{~N}który prawdopodobnie{~N}upuścił Kaufmann."
     },
     "82": {
-        "name": "Safe key",
-        "desc": "Key to the safe,{~N}found at Indian Runner{~N}General Store."
+        "name": "Klucz do sejfu",
+        "desc": "Klucz do sejfu,{~N}znaleziony w sklepie wielobranżowym{~N}Indian Runner."
     },
     "83": {
-        "name": "Magnet",
-        "desc": "Long, thin magnetic rod{~N}with a string attached,{~N}in the motel office."
+        "name": "Magnes",
+        "desc": "Długi, cienki magnetyczny pręt{~N}z przywiązanym sznurkiem{~N}z biura motelu."
     },
     "84": {
-        "name": "Motorcycle key",
-        "desc": "Key to an old motorcycle,{~N}which was dropped between the{~N}floorboards in the motel room."
+        "name": "Klucz do motocyklu",
+        "desc": "Klucz do starego motocykla,{~N}który został wrzucony między {~N}panele podłogowe pokoju motelu."
     },
     "85": {
-        "name": "Bird cage key",
-        "desc": "Bird cage key with{~N}engraved handle."
+        "name": "Klucz do klatki dla ptaków",
+        "desc": "Klucz do klatki dla ptaków{~N}z grawerowanym uchwytem."
     },
     "86": {
-        "name": "Pliers",
-        "desc": "Tool to use on{~N}metal and wires.{~N}Rusted but usable."
+        "name": "Kombinerki",
+        "desc": "Narzędzie do pracy przy{~N}metalu i drutach.{~N}Zardzewiałe, ale działające."
     },
     "87": {
-        "name": "Screwdriver",
-        "desc": "Tool for screws.{~N}Rusted, but usable."
+        "name": "śrubokręt",
+        "desc": "Narzędzie do wkręcania śrub.{~N}Zardzewiałe, ale działające"
     },
     "88": {
-        "name": "Camera",
-        "desc": "Camera with flash."
+        "name": "Aparat",
+        "desc": "Aparat fotograficzny{~N}z lampą błyskową."
     },
     "89": {
-        "name": "Ring of contract",
-        "desc": "Rustic, hefty-looking ring{~N}of unknown material."
+        "name": "Pierścień kontraktu",
+        "desc": "Rustykalny, solidnie wyglądający{~N}pierścień z nieznanego materiału."
     },
     "90": {
-        "name": "Stone of time",
-        "desc": "Large stone with clock-face{~N}design on pillar with astrology{~N}chart hanging from it."
+        "name": "Kamień czasu",
+        "desc": "Duży kamień z wzorem tarczy{~N}zegara z kolumny z{~N}wiszącymi wzorami astrologicznymi."
     },
     "91": {
-        "name": "Amulet of Solomon",
-        "desc": "The amulet is a star shaped{~N}object with 6 corners named{~N}after the ancient magician."
+        "name": "Amulet Solomona",
+        "desc": "Amulet jest obiektem w kształcie{~N}gwiazdy sześcioramiennej nazwanej{~N}imieniem prawdawnego magika."
     },
     "92": {
-        "name": "Crest of Mercury",
-        "desc": "Snake in the symbol of{~N}mercury signifies alchemy."
+        "name": "Herb Mercurego",
+        "desc": "Wąż w symbolu merkurego{~N}symbolizuje alchemię."
     },
     "93": {
         "name": "Ankh",
-        "desc": "Elliptical talisman{~N}with a cross inside."
+        "desc": "Eliptyczny talizman{~N}z krzyzem w środku."
     },
     "94": {
-        "name": "Dagger of Melchior",
-        "desc": "The ancient dagger{~N}named after the Magi."
+        "name": "Sztylet Melchiora",
+        "desc": "Pradawny sztylet{~N}nazwany imieniem mędrca."
     },
     "95": {
-        "name": "Disk of Ouroboros",
-        "desc": "Ring of a snake biting{~N}it's own tail."
+        "name": "Dysk Ouroborosa",
+        "desc": "Pierścień w kształcie węża{~N}zjadajaćego własny ogon."
     },
     "96": {
-        "name": "Kitchen knife",
-        "desc": "Hard to use,{~N}but better than nothing."
+        "name": "Nóż kuchenny",
+        "desc": "Trudny w użytku,{~N}ale lepszy niż nic."
     },
     "97": {
-        "name": "Steel pipe",
-        "desc": "3' long steel pipe.{~N}Long range but of limited use."
+        "name": "Stalowa rura",
+        "desc": "Stalowa rura długości 1 metra.{~N}Długi zasięg, ale ograniczone{~N}zastosowanie."
     },
     "98": {
-        "name": "Rock drill",
-        "desc": "A tool used in road construction{~N}to create holes in the road for{~N}poles."
+        "name": "Wiertło do skał",
+        "desc": "Narzędzie używane podczas budowy{~N}dróg do wiercenia dziur w ziemi{~N}pod filary."
     },
     "99": {
         "name": " ",
         "desc": " "
     },
     "100": {
-        "name": "Hammer",
-        "desc": "Emergency hammer.{~N}Highly damaging,{~N}but hard to use."
+        "name": "Młot",
+        "desc": "Młot awaryjny.{~N}Wysoce niszczący,{~N}ale trudny w użyciu."
     },
     "101": {
-        "name": "Chainsaw",
-        "desc": "Power tool used for cutting{~N}down trees, etc., highly deadly."
+        "name": "Piła lańcuchowa",
+        "desc": "Narzędzie spalinowa do wycinki{~N}drzew itp., śmiertelnie niebezpieczna."
     },
     "102": {
         "name": "Katana",
-        "desc": "Traditional single edged{~N}Japanese blade."
+        "desc": "Tradycyjne japońskie ostrze z{~N}pojedynczym brzegiem."
     },
     "103": {
-        "name": "Axe",
-        "desc": "Small one hand axe.{~N}Moderately effective{~N}as a weapon."
+        "name": "Siekiera",
+        "desc": "Mała, jednoręczna siekiera.{~N}Umiarkowanie skuteczna{~N}jako broń."
     },
     "128": {
-        "name": "Handgun",
-        "desc": "Handgun received from Cybil.{~N}Holds up to 15 rounds."
+        "name": "Pistolet",
+        "desc": "Pistolet otrzymany od Cybil.{~N}Mieści do 15 nabojów."
     },
     "129": {
-        "name": "Hunting rifle",
-        "desc": "Holds up to 6 rounds."
+        "name": "Strzelba łowiecka",
+        "desc": "Mieści do 6 nabojów."
     },
     "130": {
         "name": "Shotgun",
-        "desc": "Fires in a wide radius.{~N}Holds up to 6 rounds."
+        "desc": "Strzela na szeroki obszar.{~N}Mieści do 6 nabojów."
     },
     "131": {
-        "name": "Hyper Blaster",
-        "desc": "High-powered handgun{~N}with infrared scope{~N}and unlimited bullets."
+        "name": "Hiperblaster",
+        "desc": "Pistolet o dużej mocy{~N}z celowaniem na podczerwień{~N}i nieskończoną amunicją."
     },
     "160": {
-        "name": "Handgun bullets",
-        "desc": "Ammo for the handgun."
+        "name": "Naboje do pistoletu",
+        "desc": "Amunicja do pistoletu."
     },
     "161": {
-        "name": "Rifle shells",
-        "desc": "Ammo for the hunting rifle."
+        "name": "Amunicja do strzelby",
+        "desc": "Naboje do strzelby łowieckiej."
     },
     "162": {
-        "name": "Shotgun shells",
-        "desc": "Ammo for the shotgun."
+        "name": "Naboje do shotguna",
+        "desc": "Amunicja do shotguna."
     },
     "192": {
-        "name": "Flashlight",
-        "desc": "One touch on/off switch.{~N}In the chest pocket."
+        "name": "Latarka",
+        "desc": "Dotykowy włącznik i wyłącznik.{~N}W kieszeni piersiowej."
     },
     "193": {
-        "name": "Pocket radio",
-        "desc": "Portable radio that{~N}emits static{~N}when monsters are near."
+        "name": "Radio kieszonkowe",
+        "desc": "Przenośne radio, które{~N}emituje szum, gdy{~N}potwory są w pobliżu."
     },
     "194": {
-        "name": "Gasoline tank",
-        "desc": "Fuel for chainsaws and{~N}rock drills."
+        "name": "Kanister paliwa",
+        "desc": "Paliwo do pił łańcuchowych{~N}oraz wiertarek do skał."
     }
 }
