@@ -1,7 +1,7 @@
 {
     "0": {
         "name": "Napój leczniczy",
-        "desc": "Dostarcza wartości odżywczych{~N}i odzyskuję małą ilość{~N}wytrzymałości."
+        "desc": "Dostarcza wartości odżywczych{~N}i odzyskuje małą ilość{~N}wytrzymałości."
     },
     "1": {
         "name": "Apteczka",
@@ -141,19 +141,19 @@
     },
     "71": {
         "name": "Tabliczka ]żółw]",
-        "desc": "Square, blue plate{~N}with a picture of{~N}a ]Mock Turtle.]"
+        "desc": "Kwadratowa, niebieska tabliczka{~N}z ilustracją{~N} ]Fałszywego żółwia.]"
     },
     "72": {
         "name": "Tabliczka ]Kapelusznik]",
-        "desc": "Kwadratowa, zielona tabliczna{~N}z ilustracją{~N} ]Szalonego Kapelusznika.]"
+        "desc": "Kwadratowa, zielona tabliczka{~N}z ilustracją{~N} ]Szalonego Kapelusznika.]"
     },
     "73": {
         "name": "Tabliczka ]Kot]",
-        "desc": "Kwadratowa, żółta tablicznae{~N}z ilustracją {~N} ]Kota z Cheshire.]"
+        "desc": "Kwadratowa, żółta tabliczka{~N}z ilustracją {~N} ]Kota z Cheshire.]"
     },
     "74": {
         "name": "Tabliczka ]Królowa]",
-        "desc": "Kwadratowa, czerwona tabvliczna{~N}z ilustracją {~N}]Królowej Kier.]"
+        "desc": "Kwadratowa, czerwona tabliczka{~N}z ilustracją {~N}]Królowej Kier.]"
     },
     "75": {
         "name": "Jednostka krwi",
@@ -165,7 +165,7 @@
     },
     "77": {
         "name": "Zapalniczka",
-        "desc": "Zapalniczna benzynowa{~N}znaleziona w pokoju 201."
+        "desc": "Zapalniczka benzynowa{~N}znaleziona w pokoju 201."
     },
     "78": {
         "name": "Kaseta wideo",
@@ -257,7 +257,7 @@
     },
     "100": {
         "name": "Młot",
-        "desc": "Młot awaryjny.{~N}Wysoce niszczący,{~N}ale trudny w użyciu."
+        "desc": "Młot awaryjny.{~N}Wysoce niszczycielski,{~N}ale trudny w użyciu."
     },
     "101": {
         "name": "Piła lańcuchowa",
