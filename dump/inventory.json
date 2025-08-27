@@ -1,14 +1,14 @@
 {
     "0": {
         "name": "Napój leczniczy",
-        "desc": "Dostarcza odżywienia, aby{~N}odzyskać niewielką ilość{~N}wytrzymałości."
+        "desc": "Dostarcza wartości odżywczych{~N}i odzyskuję małą ilość{~N}wytrzymałości."
     },
     "1": {
         "name": "Apteczka",
-        "desc": "Leczy rany, aby dać{~N}umiarkowaną regenerację wytrzymałości."
+        "desc": "Leczy rany, aby dać{~N}umiarkowaną regenerację{~N}wytrzymałości."
     },
     "2": {
-        "name": "AMpułka",
+        "name": "Ampułka",
         "desc": "Uśmierza ból, aby dać{~N}wysoką wytrzymałość.{~N}Efekty utrzymują się jakiś czas."
     },
     "32": {
@@ -17,19 +17,19 @@
     },
     "33": {
         "name": "Klucz do domu",
-        "desc": "Klucz do domu, który{~N}był schowany w budzie dla psa."
+        "desc": "Klucz do domu, który był{~N}schowany w budzie dla psa."
     },
     "34": {
         "name": "Klucz ]Lwa]",
-        "desc": "Klucz do ogródka{~N}domowego. Znaleziony w bagażniku{~N}radiowozu."
+        "desc": "Klucz do ogródka domowego.{~N}Znaleziony w bagażniku{~N}radiowozu."
     },
     "35": {
         "name": "Klucz ]Drwala]",
-        "desc": "Klucz do ogródka{~N}domowego. Znaleziony na{~N}boisku do koszykówki."
+        "desc": "Klucz do ogródka domowego.{~N}Znaleziony na{~N}boisku do koszykówki."
     },
     "36": {
         "name": "Klucz ]Stracha na wróble]",
-        "desc": "Klucz do ogródka{~N}domowego. Znaleziony w skrzynce{~N}pocztowej obok zwalonego drzewa."
+        "desc": "Klucz do ogródka domowego.{~N}Znaleziony w skrzynce pocztowej{~N}obok zwalonego drzewa."
     },
     "37": {
         "name": "Klucz do magazynu biblioteki",
@@ -97,7 +97,7 @@
     },
     "53": {
         "name": "Karta z obrazkiem",
-        "desc": "Prostokątna karta z {~N}obrazkiem klucza. Znaleziona n{~N}biurku w klasie."
+        "desc": "Prostokątna karta z obrazkiem{~N}klucza. Znaleziona na{~N}biurku w klasie."
     },
     "54": {
         "name": " ",
@@ -113,19 +113,19 @@
     },
     "64": {
         "name": "Odczynnik",
-        "desc": "Na etykiecie widnieje ]Stężony{~N}kwas chlorowodorowy.]Znaleziony w{~N}magazynku laboratorium chemicznego."
+        "desc": "Na etykiecie widnieje ]Stężony{~N}kwas chlorowodorowy]. Znaleziony{~N}w magazynku laboratorium."
     },
     "65": {
         "name": "Złoty medalion",
-        "desc": "Obrazek wieży zegarowej{~N}jest wygrawerowany na powierzchni.{~N}Znaleziony w laboratorium chemicznym."
+        "desc": "Obrazek wieży zegarowej jest{~N}wygrawerowany na powierzchni.{~N}Znaleziony w laboratorium."
     },
     "66": {
         "name": "Srebrny medalion",
-        "desc": "Obrazek wieży zegarowej{~N}jest wygrawerowany na powierzchni.{~N}Znaleziony w pokoju muzycznym."
+        "desc": "Obrazek wieży zegarowej jest{~N}wygrawerowany na powierzchni.{~N}Znaleziony w pokoju muzycznym."
     },
     "67": {
         "name": "Gumowa piłeczka",
-        "desc": "Jaskraworóżowa piłka gumowa{~N}używana przez dzieci."
+        "desc": "Jaskraworóżowa gumowa piłka{~N}używana przez dzieci."
     },
     "68": {
         "name": "]Flauros]",
@@ -241,14 +241,14 @@
     },
     "96": {
         "name": "Nóż kuchenny",
-        "desc": "Trudny w użytku,{~N}ale lepszy niż nic."
+        "desc": "Trudny w użyciu,{~N}ale lepszy niż nic."
     },
     "97": {
         "name": "Stalowa rura",
         "desc": "Stalowa rura długości 1 metra.{~N}Długi zasięg, ale ograniczone{~N}zastosowanie."
     },
     "98": {
-        "name": "Wiertło do skał",
+        "name": "Wiertarka do skał",
         "desc": "Narzędzie używane podczas budowy{~N}dróg do wiercenia dziur w ziemi{~N}pod filary."
     },
     "99": {
@@ -261,7 +261,7 @@
     },
     "101": {
         "name": "Piła lańcuchowa",
-        "desc": "Narzędzie spalinowa do wycinki{~N}drzew itp., śmiertelnie niebezpieczna."
+        "desc": "Narzędzie spalinowe do wycinki{~N}drzew itp.,{~N}śmiertelnie niebezpieczna."
     },
     "102": {
         "name": "Katana",
@@ -276,11 +276,11 @@
         "desc": "Pistolet otrzymany od Cybil.{~N}Mieści do 15 nabojów."
     },
     "129": {
-        "name": "Strzelba łowiecka",
+        "name": "Broń łowiecka",
         "desc": "Mieści do 6 nabojów."
     },
     "130": {
-        "name": "Shotgun",
+        "name": "Strzelba",
         "desc": "Strzela na szeroki obszar.{~N}Mieści do 6 nabojów."
     },
     "131": {
@@ -288,24 +288,24 @@
         "desc": "Pistolet o dużej mocy{~N}z celowaniem na podczerwień{~N}i nieskończoną amunicją."
     },
     "160": {
-        "name": "Naboje do pistoletu",
+        "name": "Naboje=pistolet",
         "desc": "Amunicja do pistoletu."
     },
     "161": {
-        "name": "Amunicja do strzelby",
+        "name": "Naboje=broń łowiecka",
         "desc": "Naboje do strzelby łowieckiej."
     },
     "162": {
-        "name": "Naboje do shotguna",
-        "desc": "Amunicja do shotguna."
+        "name": "Naboje=strzelba",
+        "desc": "Amunicja do strzelby."
     },
     "192": {
         "name": "Latarka",
         "desc": "Dotykowy włącznik i wyłącznik.{~N}W kieszeni piersiowej."
     },
     "193": {
-        "name": "Radio kieszonkowe",
-        "desc": "Przenośne radio, które{~N}emituje szum, gdy{~N}potwory są w pobliżu."
+        "name": "Przenośne radio",
+        "desc": "Kieszonkowe radio, które{~N}emituje szum, gdy{~N}potwory są w pobliżu."
     },
     "194": {
         "name": "Kanister paliwa",
