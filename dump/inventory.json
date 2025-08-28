@@ -185,14 +185,14 @@
     },
     "82": {
         "name": "Klucz do sejfu",
-        "desc": "Klucz do sejfu,{~N}znaleziony w sklepie wielobranżowym{~N}Indian Runner."
+        "desc": "Klucz do sejfu, znaleziony w{~N}sklepie wielobranżowym{~N}Indian Runner."
     },
     "83": {
         "name": "Magnes",
-        "desc": "Długi, cienki magnetyczny pręt{~N}z przywiązanym sznurkiem{~N}z biura motelu."
+        "desc": "Długi, cienki, magnetyczny{~N}pręt z przywiązanym sznurkiem{~N}z biura motelu."
     },
     "84": {
-        "name": "Klucz do motocyklu",
+        "name": "Klucz do motocykla",
         "desc": "Klucz do starego motocykla,{~N}który został wrzucony między {~N}panele podłogowe pokoju motelu."
     },
     "85": {
