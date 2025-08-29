@@ -205,7 +205,7 @@
     },
     "87": {
         "name": "śrubokręt",
-        "desc": "Narzędzie do wkręcania śrub.{~N}Zardzewiałe, ale działające"
+        "desc": "Narzędzie do wkręcania śrub.{~N}Zardzewiałe, ale działające."
     },
     "88": {
         "name": "Aparat",
@@ -217,11 +217,11 @@
     },
     "90": {
         "name": "Kamień czasu",
-        "desc": "Duży kamień z wzorem tarczy{~N}zegara z kolumny z{~N}wiszącymi wzorami astrologicznymi."
+        "desc": "Duży kamień z wzorem tarczy{~N}zegara. Z kolumny z wiszącymi{~N}wzorami astrologicznymi."
     },
     "91": {
         "name": "Amulet Solomona",
-        "desc": "Amulet jest obiektem w kształcie{~N}gwiazdy sześcioramiennej nazwanej{~N}imieniem prawdawnego magika."
+        "desc": "Amulet w kształcie gwiazdy{~N}sześcioramiennej nazwanej{~N}imieniem prawdawnego magika."
     },
     "92": {
         "name": "Herb Mercurego",
@@ -229,7 +229,7 @@
     },
     "93": {
         "name": "Ankh",
-        "desc": "Eliptyczny talizman{~N}z krzyzem w środku."
+        "desc": "Eliptyczny talizman{~N}z krzyżem w środku."
     },
     "94": {
         "name": "Sztylet Melchiora",
@@ -237,7 +237,7 @@
     },
     "95": {
         "name": "Dysk Ouroborosa",
-        "desc": "Pierścień w kształcie węża{~N}zjadajaćego własny ogon."
+        "desc": "Pierścień w kształcie węża{~N}zjadającego własny ogon."
     },
     "96": {
         "name": "Nóż kuchenny",
