@@ -265,7 +265,7 @@
     },
     "102": {
         "name": "Katana",
-        "desc": "Tradycyjne japońskie ostrze z{~N}pojedynczym brzegiem."
+        "desc": "Tradycyjne japońskie ostrze{~N}z pojedynczym brzegiem."
     },
     "103": {
         "name": "Siekiera",
@@ -288,15 +288,15 @@
         "desc": "Pistolet o dużej mocy{~N}z celowaniem na podczerwień{~N}i nieskończoną amunicją."
     },
     "160": {
-        "name": "Naboje=pistolet",
+        "name": "Amunicja",
         "desc": "Amunicja do pistoletu."
     },
     "161": {
-        "name": "Naboje=broń łowiecka",
+        "name": "Amunicja",
         "desc": "Naboje do strzelby łowieckiej."
     },
     "162": {
-        "name": "Naboje=strzelba",
+        "name": "Amunicja",
         "desc": "Amunicja do strzelby."
     },
     "192": {
